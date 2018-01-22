@@ -1,22 +1,36 @@
-indicator-netspeed-unity (1.03-trusty0) trusty; urgency=medium
+indicator-netspeed-unity (1.05-artful0) artful; urgency=medium
+
+  * Added Finnish translation.
+
+ -- Gleb Golovachev <golovachev.gleb@gmail.com>  Mon, 22 Jan 2018 17:17:00 +0500
+
+indicator-netspeed-unity (1.04-artful0) artful; urgency=medium
+
+  * Added Bengali translation.
+  * Added Indonesian translation.
+  * Added Chinese (simplified) translation.
+
+ -- Gleb Golovachev <golovachev.gleb@gmail.com>  Sat, 2 Apr 2016 01:01:00 +0500
+
+indicator-netspeed-unity (1.03-artful0) artful; urgency=medium
 
   * Added Hungarian translation.
 
  -- Gleb Golovachev <golovachev.gleb@gmail.com>  Tue, 16 Jun 2015 11:11:00 +0500
 
-indicator-netspeed-unity (1.02-trusty0) trusty; urgency=medium
+indicator-netspeed-unity (1.02-artful0) artful; urgency=medium
 
   * Added option "View"
 
  -- Gleb Golovachev <golovachev.gleb@gmail.com>  Fri, 12 Jun 2015 12:12:00 +0500
 
-indicator-netspeed-unity (1.01-trusty0) trusty; urgency=medium
+indicator-netspeed-unity (1.01-artful0) artful; urgency=medium
 
   * Fixes associated with freeing memory in GSettings
 
  -- Gleb Golovachev <golovachev.gleb@gmail.com>  Thu, 12 Feb 2015 15:15:00 +0500
  
-indicator-netspeed-unity (1.0-trusty0) trusty; urgency=medium
+indicator-netspeed-unity (1.0-artful0) artful; urgency=medium
 
   * Initial release
 
